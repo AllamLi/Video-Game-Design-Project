@@ -1,7 +1,7 @@
-﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m4", "Assembly-CSharp.csproj", "{CDB74D25-A49D-090B-7630-CC16ACD6F9A8}"
+# Visual Studio 2008
+
+Project("{FD6B6FC9-220B-72D2-1683-AE8E4F50A210}") = "m4", "Assembly-CSharp.csproj", "{CDB74D25-A49D-090B-7630-CC16ACD6F9A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
