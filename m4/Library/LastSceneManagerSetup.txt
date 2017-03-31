@@ -1,7 +1,11 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/m4_scene1.unity
   isLoaded: 0
   isActive: 0
 - path: Assets/MagicEffectsLightningVol01/Demo.unity
+=======
+- path: Assets/Scenes/m4_scene0.unity
+>>>>>>> master
   isLoaded: 1
   isActive: 1
